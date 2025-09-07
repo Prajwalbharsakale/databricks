@@ -22,6 +22,15 @@ Open **PowerShell** or **Command Prompt** and run:
 pip install --upgrade databricks-cli
 ```
 
+Different packages for installation:
+```bash
+winget search databricks
+winget install Databricks.DatabricksCLI
+```
+
+For More packages please visit :- https://docs.databricks.com/aws/en/dev-tools/cli/install#install
+
+
 Verify installation:
 
 ```bash
