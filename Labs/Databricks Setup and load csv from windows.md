@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This guide helps beginners set up Databricks CLI, upload files from their local machine, and work with Spark tables. Topics include:
+This guide helps beginners set up Databricks CLI, upload files from their local machine, and work with Spark tables. Topics include :
 
 - Installing Databricks CLI
 - Generating Personal Access Tokens (PATs)
